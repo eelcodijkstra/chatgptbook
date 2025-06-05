@@ -13,3 +13,5 @@
 * [presentatie voor Metis Alumni](https://docs.google.com/presentation/d/1louhDJ5G_8uKUOdeaUjstS_0d4whzBgXC31sGaoFk44/edit?usp=sharing)
 * [presentatie voor workshop ChatGPT prompting voor docenten](https://docs.google.com/presentation/d/1IOA1N8DRYeyUONZHTiVhqAdEIfJHPmXPmkNeQYRCnns/edit?usp=sharing)
 * [presentatie ChatGPT voor O&O docenten](https://docs.google.com/presentation/d/1auHtVVaqSvOJDGYSuwdm-f_gmzsIyMcWsHpy5ejRBbA/edit?usp=sharing)
+
+* [presentatie voor schoolleiding juni 2025](https://docs.google.com/presentation/d/12cOo3xLK3ueVGfJaq5l5ZQtRnIh6usKccvhVf5uVONU/edit?usp=sharing)
